@@ -1,2 +1,2 @@
-# Apresenta-o-NAS
+# Apresentação NAS
 Uma apresentação sobre Network Attached Storage utilizando o impress.js
